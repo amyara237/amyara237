@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ramadan</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<img src="https://dribbble.com/shots/4171367-Coding-Freak/attachments/10240400?mode=media" alt="">
-- 🔭 I’m currently working on [My portfolio](https://amyara237.github.io/)
+![Alt text](https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif)
 
 - 🌱 I’m currently learning **JavaScript**
 
